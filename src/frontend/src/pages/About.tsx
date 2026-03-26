@@ -158,14 +158,14 @@ export default function About() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:9701880499"
+                href="tel:9490337907"
                 className="inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-semibold text-white hover:bg-primary/90 transition-colors"
                 data-ocid="about.primary_button"
               >
-                Call Us: 9701880499
+                Call Us: 9490337907
               </a>
               <a
-                href="https://wa.me/919701880499"
+                href="https://wa.me/919490337907"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 rounded-lg border border-primary px-6 py-3 text-sm font-semibold text-primary hover:bg-primary/5 transition-colors"

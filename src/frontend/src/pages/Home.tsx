@@ -122,10 +122,10 @@ export default function Home() {
           >
             <Phone className="h-4 w-4" />
             <a
-              href="tel:9701880499"
+              href="tel:9490337907"
               className="text-white font-semibold hover:text-blue-200 transition-colors"
             >
-              9701880499
+              9490337907
             </a>
           </motion.div>
         </div>
@@ -266,8 +266,8 @@ export default function Home() {
               className="bg-white text-primary hover:bg-white/90 font-semibold"
               data-ocid="cta.primary_button"
             >
-              <a href="tel:9701880499">
-                <Phone className="mr-2 h-4 w-4" /> Call 9701880499
+              <a href="tel:9490337907">
+                <Phone className="mr-2 h-4 w-4" /> Call 9490337907
               </a>
             </Button>
             <Button
@@ -278,7 +278,7 @@ export default function Home() {
               data-ocid="cta.secondary_button"
             >
               <a
-                href="https://wa.me/919701880499"
+                href="https://wa.me/919490337907"
                 target="_blank"
                 rel="noopener noreferrer"
               >

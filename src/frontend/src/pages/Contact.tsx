@@ -206,10 +206,10 @@ export default function Contact() {
                       Phone
                     </p>
                     <a
-                      href="tel:9701880499"
+                      href="tel:9490337907"
                       className="text-lg font-bold text-foreground hover:text-primary transition-colors"
                     >
-                      9701880499
+                      9490337907
                     </a>
                   </div>
                 </div>
@@ -229,7 +229,7 @@ export default function Contact() {
                       WhatsApp
                     </p>
                     <a
-                      href="https://wa.me/919701880499"
+                      href="https://wa.me/919490337907"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-lg font-bold text-foreground hover:text-primary transition-colors"
@@ -255,7 +255,7 @@ export default function Contact() {
                       Sarojinidevi, Telangana
                     </p>
                     <p className="text-sm font-medium text-foreground">
-                      Phone: 9701880499
+                      Phone: 9490337907
                     </p>
                   </div>
                 </div>
